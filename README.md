@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **okaforhenry01@gmail.com**
 
-- ⚡ Fun fact **i love**
+- ⚡ Fun fact **i love music, books and movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
