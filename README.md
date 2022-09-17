@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Okafor</h1>
-<h3 align="center">A detail-oriented front-end developer with years of experience translating UI/UX designs to elegant, and responsive client-side code. Given the vast wealth of experience I have acquired over the years, I’m able to contribute to the growth of any workforce. I am also experienced in guiding projects from conception to completion while seeking ways to tackle complex problems in user experience and improving web accessibility (A11y) for users.</h3>
+<h3 align="center">Dedicated, solution-driven software engineer with 3+ years of experience working in organized and ever-evolving work environments and creating not only functional but clean and efficient design and systems that are flexible. </h3>
 
 <p align="left"> <a href="https://twitter.com/henryokafor_jsx" target="blank"><img src="https://img.shields.io/twitter/follow/henryokafor_jsx?logo=twitter&style=for-the-badge" alt="henryokafor_jsx" /></a> </p>
 
