@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=castelstack&show_icons=true&locale=en&layout=compact" alt="castelstack" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=castelstack&show_icons=true&locale=en" alt="castelstack" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=castelstack&" alt="castelstack" /></p>
