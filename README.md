@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Henry Okafor</h1>
-<h3 align="center">Dedicated, solution-driven software engineer with 3+ years of experience working in organized and ever-evolving work environments and creating not only functional but clean and efficient design and systems that are flexible. </h3>
+<h3 align="center">Frontend Engineer specializing in JavaScript, React, and Next.js. Proficient in delivering high-performance web applications, with expertise in Redux, TypeScript, and automated testing. Effective communicator and collaborative team player.
+</h3>
 
 <p align="left"> <a href="https://twitter.com/henryokafor_jsx" target="blank"><img src="https://img.shields.io/twitter/follow/henryokafor_jsx?logo=twitter&style=for-the-badge" alt="henryokafor_jsx" /></a> </p>
-
-- 🌱 I’m currently learning **Blockchain integration**
 
 - 💬 Ask me about **react, next and its ecosystem**
 
 - 📫 How to reach me **okaforhenry01@gmail.com**
-
-- ⚡ Fun fact **i love music, books and movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
